@@ -1,0 +1,10 @@
+# Файлы IntelliJ IDEA
+.idea/
+*.iml
+
+# Результаты сборки Maven
+target/
+
+# Другие системные файлы
+*.log
+out/
